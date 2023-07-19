@@ -4,7 +4,7 @@ import Link from 'next/link'
 const HomePage = () => {
   return (
     <div>
-      <h1>Weclome to my site</h1>
+      <h1>Welcome to my site</h1>
       <ul>
         <li><Link href="/">Home</Link></li>
         <li><Link href="/about">About</Link></li>
